@@ -5,9 +5,13 @@ const Profile = ({ data }) => (
   <div className="flex pb-4">
     <div className="flex pr-4 section-title">
       <div className="flex-1 flex-col">
-        <div id="profile" className="anchor">
+        <a
+          href="#profile"
+          id="profile"
+          className="anchor text-grey-darkest no-underline"
+        >
           Profile
-        </div>
+        </a>
         <div className="w-4/5">
           <hr />
         </div>

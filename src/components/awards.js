@@ -7,9 +7,13 @@ const Awards = ({ data }) => {
     <div className="flex pb-4">
       <div className="flex pr-4 section-title">
         <div className="flex-1 flex-col">
-          <div id="awards" className="anchor">
+          <a
+            href="#awards"
+            id="awards"
+            className="anchor text-grey-darkest no-underline"
+          >
             Awards
-          </div>
+          </a>
           <div className="w-4/5">
             <hr />
           </div>

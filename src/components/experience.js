@@ -62,9 +62,13 @@ const Experience = ({ data }) => {
     <div className="flex pb-4">
       <div className="flex pr-4 section-title">
         <div className="flex-1 flex-col">
-          <div id="experience" className="anchor">
+          <a
+            href="#experience"
+            id="experience"
+            className="anchor text-grey-darkest no-underline"
+          >
             Experience
-          </div>
+          </a>
           <div className="w-4/5">
             <hr />
           </div>

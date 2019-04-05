@@ -7,9 +7,13 @@ const Certificates = ({ data }) => {
     <div className="flex pb-4">
       <div className="flex pr-4 section-title">
         <div className="flex-1 flex-col">
-          <div id="certificates" className="anchor">
+          <a
+            href="#certificates"
+            id="certificates"
+            className="anchor text-grey-darkest no-underline"
+          >
             Certificates
-          </div>
+          </a>
           <div className="w-4/5">
             <hr />
           </div>

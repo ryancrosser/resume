@@ -65,6 +65,7 @@ body {
   @apply bg-grey-light;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
     sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  @apply text-grey-darkest;
 }
 
 .section-title {
@@ -72,7 +73,7 @@ body {
   font-weight: 700;
 }
 
-div.anchor:before {
+a.anchor:before {
   content: "";
   display: block;
   position: relative;

@@ -7,9 +7,13 @@ const Skills = ({ data }) => {
     <div className="flex pb-4">
       <div className="flex pr-4 section-title">
         <div className="flex-1 flex-col">
-          <div id="skills" className="anchor">
+          <a
+            href="#skills"
+            id="skills"
+            className="anchor text-grey-darkest no-underline"
+          >
             Skills
-          </div>
+          </a>
           <div className="w-4/5">
             <hr />
           </div>
@@ -23,7 +27,7 @@ const Skills = ({ data }) => {
 };
 
 Skills.propTypes = {
-  data: PropTypes.arrayOf(PropTypes.object)
+  data: PropTypes.array
 };
 
 Skills.defaultProps = {

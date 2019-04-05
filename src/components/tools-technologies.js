@@ -15,9 +15,13 @@ const ToolsTechnologies = ({ data }) => {
     <div className="flex pb-4">
       <div className="flex pr-4 section-title">
         <div className="flex-1 flex-col">
-          <div id="tools-technologies" className="anchor">
+          <a
+            href="#tools-technologies"
+            id="tools-technologies"
+            className="anchor text-grey-darkest no-underline"
+          >
             Tools &amp; <br /> Technologies
-          </div>
+          </a>
           <div className="w-4/5">
             <hr />
           </div>
@@ -62,7 +66,7 @@ const ToolsTechnologies = ({ data }) => {
 };
 
 ToolsTechnologies.propTypes = {
-  data: PropTypes.arrayOf(PropTypes.object)
+  data: PropTypes.objectOf(PropTypes.object)
 };
 
 ToolsTechnologies.defaultProps = {

@@ -3,16 +3,17 @@ import PropTypes from "prop-types";
 import { format } from "date-fns";
 
 const Education = ({ data }) => {
-  const items = data.map(edu => {
-    return <li key={edu.name}>{edu.name}</li>;
-  });
   return (
     <div className="flex pb-4">
       <div className="flex pr-4 section-title">
         <div className="flex-1 flex-col">
-          <div id="education" className="anchor">
+          <a
+            href="#education"
+            id="education"
+            className="anchor text-grey-darkest no-underline"
+          >
             Education
-          </div>
+          </a>
           <div className="w-4/5">
             <hr />
           </div>
