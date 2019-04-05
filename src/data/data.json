@@ -1,0 +1,221 @@
+{
+  "name": "Ryan K. Crosser",
+  "tagLine": "Senior Full-Stack JavaScript Developer and Technical Lead",
+  "clearance": "Active Top Secret/SCI",
+  "location": "Leesburg, VA",
+  "emailAddress": "ryankcrosser@gmail.com",
+  "phoneNumber": "916-897-4404",
+  "githubUrl": "https://github.com/ryancrosser",
+  "resumeData": {
+    "profile": "Former Air Force <em>Signals Intelligence Analyst</em> turned creative <em>Software Developer</em>, <em>Certified Solutions Architect</em>, and <em>Advanced Certified Scrum Master</em> with more than 8 years of experience developing dynamic <em>front-end applications</em> for users ranging from Law Enforcement to the Intelligence Community.",
+    "experience": [
+      {
+        "companyName": "Booz Allen Hamilton",
+        "location": "McLean, VA",
+        "title": "Senior Lead Technologist",
+        "startDate": "2013-12-02T00:00:00.000Z",
+        "endDate": "",
+        "positions": [
+          {
+            "positionTitle": "Technical Lead",
+            "startDate": "2017-05-16T00:00:00.000Z",
+            "endDate": "",
+            "description": [
+              "Responsible for the technical direction of a hybrid analytic-development team tasked with building interactive, web-based applications for members of the Department of Defense, Intelligence Community, and Law Enforcement",
+              "Manage the daily tasks for the development team, overseeing the development and maintenance of 23 applications, including Voltron",
+              "Lead the development of 9 new applications",
+              "Interact directly with client leadership and end-users to define and prioritize requirements resulting in new applications or new features added to current applications",
+              "Architected and developed a static file server deployed across multiple enclaves and developed a mock server for development use, which has been implemented in 10 applications",
+              "Deliver weekly status reports and bimonthly technical roadmaps",
+              "Demo new applications and features to senior leadership",
+              "Developed core libraries that have become essential components of all applications",
+              "Other responsibilities include: Technical design, code reviews, develop styles guides, conduct interviews, mentoring, and training"
+            ]
+          },
+          {
+            "positionTitle": "Technologist",
+            "startDate": "2013-12-02T00:00:00.000Z",
+            "endDate": "2017-05-15T23:59:59.999Z",
+            "description": [
+              "Developed innovative software solutions supporting users across the DoD, IC, and Law Enforcement communities",
+              "Created intuitive web-based visualizations allowing users to dynamically interrogate their data",
+              "Peer-reviewed code to ensure quality of work",
+              "Served as Product Owner for a new Persistent Data Service and have led the implementation of the service in 5 applications",
+              "Served as lead developer for 5 custom applications to support analysis projects",
+              "Provided mentorship for junior members of the team"
+            ]
+          }
+        ]
+      },
+      {
+        "companyName": "United States Air Force",
+        "location": "Beale AFB, CA",
+        "title": "Staff Sergeant",
+        "startDate": "2006-05-01T00:00:00.000Z",
+        "endDate": "2014-09-30T23:59:59.999Z",
+        "positions": [
+          {
+            "positionTitle": "Signals Intelligence Analyst",
+            "startDate": "2009-04-16T00:00:00.000Z",
+            "endDate": "2014-09-30T23:59:59.999Z",
+            "description": [
+              "Provided near real-time threat picture for battlespace preparation to theater tactical commanders and warfighters",
+              "Performed analysis and reporting, ensuring proper timeliness and accuracy of intelligence reporting",
+              "Conducted quality control of SIGINT reports, ensuring proper analysis was performed"
+            ]
+          },
+          {
+            "positionTitle": "All-source Counter-IED Analyst",
+            "startDate": "",
+            "endDate": "",
+            "description": [
+              "Reported possible/probable IED locations to Coalition Forces in their Areas of Responsibility",
+              "Conducted ad-hoc analysis providing fused intelligence information tactical warfighters"
+            ]
+          },
+          {
+            "positionTitle": "Software Developer",
+            "startDate": "",
+            "endDate": "",
+            "description": [
+              "Rapidly prototyped solutions to automate repetitive saving analyst up to 7 hours per shift",
+              "Collaborated with analysis to find scoped solutions to their problem sets"
+            ]
+          },
+          {
+            "positionTitle": "Ground Fuels Specialist",
+            "startDate": "2006-05-01T00:00:00.000Z",
+            "endDate": "2009-04-15T23:59:59.999Z",
+            "description": [
+              "Received, stored, and issued petroleum products for Air Force vehicles, aircraft, and support equipment",
+              "Supervised Bulk Storage transfers to Hydrant areas for flight line refuel operations",
+              "Responsible for 20+ million gallons of fuel transferred monthly, in Bulk Storage and Hydrants",
+              "Maintained quality control of petroleum fuels, automotive fuels, cryogenic fluids"
+            ]
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "name": "George Mason University",
+        "graduationDate": "2019-05-15T00:00:00.000Z",
+        "degree": "B.S. Information Technology, with a concentration in Health IT",
+        "inProgress": true
+      },
+      {
+        "name": "Northern Virginia Community College",
+        "graduationDate": "2016-08-25T00:00:00.000Z",
+        "degree": "A.S. General Studies"
+      }
+    ],
+    "certificates": [
+      {
+        "title": "Advanced Certified Scrum Master",
+        "awarded": "2018-12-23T00:00:00.000Z",
+        "expires": "2020-12-23T00:00:00.000Z"
+      },
+      {
+        "title": "Amazon Certified Solutions Architect",
+        "awarded": "2018-01-15T00:00:00.000Z",
+        "expires": "2021-01-15T00:00:00.000Z"
+      },
+      {
+        "title": "Certified Scrum Master",
+        "awarded": "2017-09-15T00:00:00.000Z",
+        "expires": "2019-09-15T00:00:00.000Z"
+      },
+      {
+        "title": "CompTIA Security+",
+        "awarded": "2015-11-15T00:00:00.000Z",
+        "expires": "2021-11-15T00:00:00.000Z"
+      }
+    ],
+    "skills": [
+      "Project Management",
+      "Graphic Design",
+      "Experienced with Agile process",
+      "Ability to multi-task and to switch context effectively",
+      "Ability to display endurance and capacity for a fast-paced work environment"
+    ],
+    "tools-technologies": {
+      "languages": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Python",
+        "Node.js",
+        "PHP",
+        "SQL (MySQL, PostgreSQL)"
+      ],
+      "technologies": [
+        "AngularJS",
+        "Vue.js",
+        "Vuepress",
+        "React",
+        "Gatsby",
+        "Webpack",
+        "Bootstrap",
+        "TailwindCSS",
+        "Jupyter Notebook",
+        "Express",
+        "REST APIs"
+      ],
+      "development-tools": [
+        "Amazon Web Services",
+        "Jira",
+        "Microsoft Azure",
+        "Microsoft Planner",
+        "Trello",
+        "Adobe Creative Suite",
+        "Visual Studio Code",
+        "Git"
+      ],
+      "analytic-tools": [
+        "Catapult",
+        "DataXplorer",
+        "Analyst’s Notebook",
+        "Esri ArcGIS",
+        "Google Earth",
+        "mIRC",
+        "JEMA",
+        "M3",
+        "Microsoft Office",
+        "Palantir",
+        "TIDE",
+        "Voltron"
+      ]
+    },
+    "projects": [
+      {
+        "title": "Open Source Contributions",
+        "text": "Created gulp plugin to sort AngularJS project files in preparation for concatenation and minification.<br/>Created a customized Commitizen adapter for use in personal projects."
+      },
+      {
+        "title": "Voltron",
+        "text": "Flagship application of JIDO’s Team Phoenix, supporting the DoD, IC, and Law Enforcement. One of the most well known and used applications in its category, used by more than 30,000 analysts. Have touched and modified most of the codebase. Actively managing the project to redesign and modernize the application using the Vue.js JavaScript framework."
+      },
+      {
+        "title": "RipIt",
+        "text": "Architected and developed a text extraction tool designed to be deployed on multiple networks and parsing and transforming the user’s provided documents or text. This configuration-driven application allows each deployment to be customized for that network. Application has been used by thousands of analysts to reduce the time completing the tedious task of looking for entities in a document to actually conducting analysis on their data."
+      },
+      {
+        "title": "KingKong",
+        "text": "Interactive, dynamic web visualization was the first assigned project, completed within four weeks of joining the team. It is still in use today to provided critical insights into user’s data."
+      }
+    ],
+    "awards": [
+      {
+        "title": "Received multiple Booz Allen awards"
+      },
+      {
+        "title": "US Air Force Achievement Medal",
+        "awarded": "2013-12-23T00:00:00.000Z"
+      },
+      {
+        "title": "US Army Achievement Medal",
+        "awarded": "2008-09-10T00:00:00.000Z"
+      }
+    ]
+  }
+}
