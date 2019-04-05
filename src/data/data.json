@@ -23,7 +23,7 @@
             "description": [
               "Responsible for the technical direction of a hybrid analytic-development team tasked with building interactive, web-based applications for members of the Department of Defense, Intelligence Community, and Law Enforcement",
               "Manage the daily tasks for the development team, overseeing the development and maintenance of 23 applications, including Voltron",
-              "Lead the development of 9 new applications",
+              "Lead the development of 9 new applications, 5 of which are written in Vue",
               "Interact directly with client leadership and end-users to define and prioritize requirements resulting in new applications or new features added to current applications",
               "Architected and developed a static file server deployed across multiple enclaves and developed a mock server for development use, which has been implemented in 10 applications",
               "Deliver weekly status reports and bimonthly technical roadmaps",
