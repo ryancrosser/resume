@@ -51,7 +51,7 @@
         "companyName": "United States Air Force",
         "location": "Beale AFB, CA",
         "title": "Staff Sergeant",
-        "startDate": "2006-05-01T00:00:00.000Z",
+        "startDate": "2006-05-015T00:00:00.000Z",
         "endDate": "2014-09-30T23:59:59.999Z",
         "positions": [
           {
@@ -84,7 +84,7 @@
           },
           {
             "positionTitle": "Ground Fuels Specialist",
-            "startDate": "2006-05-01T00:00:00.000Z",
+            "startDate": "2006-05-015T00:00:00.000Z",
             "endDate": "2009-04-15T23:59:59.999Z",
             "description": [
               "Received, stored, and issued petroleum products for Air Force vehicles, aircraft, and support equipment",
