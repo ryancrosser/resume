@@ -15,8 +15,8 @@ const Experience = ({ data }) => {
               exper.endDate || Date.now()
             )}
           >
-            {format(exper.startDate, "MMMM, YYYY")} to{" "}
-            {exper.endDate ? format(exper.endDate, "MMMM, YYYY") : "Present"}
+            {format(exper.startDate, "MMMM YYYY")} to{" "}
+            {exper.endDate ? format(exper.endDate, "MMMM YYYY") : "Present"}
           </span>
         </div>
         <div className="text-sm">{exper.location}</div>
@@ -37,10 +37,10 @@ const Experience = ({ data }) => {
                   }
                 >
                   {position.startDate && position.endDate
-                    ? format(position.startDate, "MMMM, YYYY") +
+                    ? format(position.startDate, "MMMM YYYY") +
                       " to " +
                       (position.endDate
-                        ? format(position.endDate, "MMMM, YYYY")
+                        ? format(position.endDate, "MMMM YYYY")
                         : "Present")
                     : ""}
                 </span>

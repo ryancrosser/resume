@@ -24,12 +24,12 @@
               "Responsible for the technical direction of a hybrid analytic-development team tasked with building interactive, web-based applications for members of the Department of Defense, Intelligence Community, and Law Enforcement",
               "Manage the daily tasks for the development team, overseeing the development and maintenance of 23 applications, including Voltron",
               "Lead the development of 9 new applications, 5 of which are written in Vue",
-              "Interact directly with client leadership and end-users to define and prioritize requirements resulting in new applications or new features added to current applications",
+              "Interact directly with client leadership and end users to define and prioritize requirements resulting in new applications or new features added to current applications",
               "Architected and developed a static file server deployed across multiple enclaves and developed a mock server for development use, which has been implemented in 10 applications",
               "Deliver weekly status reports and bimonthly technical roadmaps",
               "Demo new applications and features to senior leadership",
               "Developed core libraries that have become essential components of all applications",
-              "Other responsibilities include: Technical design, code reviews, develop styles guides, conduct interviews, mentoring, and training"
+              "Other responsibilities include: technical design, code reviews, style guide development, conduct interviews, mentoring, and training"
             ]
           },
           {
@@ -70,7 +70,7 @@
             "endDate": "",
             "description": [
               "Reported possible/probable IED locations to Coalition Forces in their Areas of Responsibility",
-              "Conducted ad-hoc analysis providing fused intelligence information tactical warfighters"
+              "Conducted ad-hoc analysis providing fused intelligence information to tactical warfighters"
             ]
           },
           {
@@ -78,8 +78,8 @@
             "startDate": "",
             "endDate": "",
             "description": [
-              "Rapidly prototyped solutions to automate repetitive saving analyst up to 7 hours per shift",
-              "Collaborated with analysis to find scoped solutions to their problem sets"
+              "Rapidly prototyped solutions to automate repetitive tasks saving analyst up to 7 hours per shift",
+              "Collaborated with analysts to find scoped solutions to their problem sets"
             ]
           },
           {
@@ -198,7 +198,7 @@
       },
       {
         "title": "RipIt",
-        "text": "Architected and developed a text extraction tool designed to be deployed on multiple networks and parsing and transforming the user’s provided documents or text. This configuration-driven application allows each deployment to be customized for that network. Application has been used by thousands of analysts to reduce the time completing the tedious task of looking for entities in a document to actually conducting analysis on their data."
+        "text": "Architected and developed a text extraction tool designed to be deployed on multiple networks and parsing and transforming the user’s provide documents or text. This configuration-driven application allows each deployment to be customized for that network. The application has been used by thousands of analysts to reduce the time completing the tedious task of looking for entities in a document to actually conducting analysis on their data."
       },
       {
         "title": "KingKong",
